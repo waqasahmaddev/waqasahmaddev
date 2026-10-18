@@ -1,5 +1,5 @@
 <a href="https://waqasahmaddev.com">
-  <img src="assets/banner.svg" width="100%" alt="GET /waqas 200 OK. Waqas Ahmad, Software Engineer. Builds backend systems, web apps and dev tools. 10+ years, mostly .NET." />
+  <img src="assets/banner.svg" width="100%" alt="GET /waqas 200 OK. Waqas Ahmad, Software Engineer. Builds backend systems, web apps and dev tools. Loves .NET and system design." />
 </a>
 
 <p align="center">
@@ -20,7 +20,6 @@ My website is built like an API, so this page is too. Each section below is an e
 {
   "name": "Waqas Ahmad",
   "role": "Software Engineer",
-  "experience": "10+ years, mostly .NET",
   "works_with": ["C#", ".NET", "ASP.NET Core", "SQL Server", "PostgreSQL", "JavaScript"],
   "loves": ["system design", ".NET", "small useful tools"],
   "writes_about": ["system design", "AI"],
