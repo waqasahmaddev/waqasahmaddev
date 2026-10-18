@@ -57,12 +57,12 @@ def banner():
          f'<text class="m" x="146" y="306" font-size="26">{key("builds")} {punc("[")}{sval("backend systems")}{punc(",")} '
          f'{sval("web apps")}{punc(",")} {sval("dev tools")}{punc("],")}</text>')
     line(5, 346, 1.1,
-         f'<text class="m" x="146" y="346" font-size="26">{key("experience")} {sval("10+ years, mostly .NET")}</text>')
+         f'<text class="m" x="146" y="346" font-size="26">{key("loves")} {punc("[")}{sval(".NET")}{punc(",")} {sval("system design")}{punc("]")}</text>')
     line(6, 386, 1.35,
          f'<text class="m" x="110" y="386" font-size="26" fill="{INK2}">}}</text>'
          f'<rect class="cur" x="134" y="366" width="13" height="26" fill="{MINT}"/>')
 
-    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-label="GET /waqas 200 OK. Waqas Ahmad, Software Engineer. Builds backend systems, web apps and dev tools. 10+ years, mostly .NET.">
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-label="GET /waqas 200 OK. Waqas Ahmad, Software Engineer. Builds backend systems, web apps and dev tools. Loves .NET and system design.">
 <style>{FONTS}
 .l{{animation:in .4s ease-out backwards}}
 @keyframes in{{from{{opacity:0;transform:translateX(-10px)}}to{{opacity:1;transform:none}}}}
