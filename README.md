@@ -39,6 +39,7 @@ Small, focused open-source tools. Fast, light and friendly to the keyboard.
 | **[snapricot](https://github.com/waqasahmaddev/snapricot)** · [site](https://waqasahmaddev.github.io/snapricot/) | A fast, open-source screenshot tool for Windows | C# |
 | **[flow-select](https://github.com/waqasahmaddev/flow-select)** · [site](https://waqasahmaddev.github.io/flow-select/) | A fast, keyboard-first select for plain HTML forms. No dependencies | JavaScript |
 | **[flow-datepicker](https://github.com/waqasahmaddev/flow-datepicker)** · [site](https://waqasahmaddev.github.io/flow-datepicker/) | A light, keyboard-first date, time and range picker. No dependencies | JavaScript |
+| **[PulseSharp](https://github.com/pulsesharp/pulsesharp)** · [site](https://pulsesharp.github.io/pulsesharp/) | Lightweight, durable events and background jobs for .NET. Preview release | C# |
 
 ### `GET /posts?limit=3`
 
