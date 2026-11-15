@@ -44,12 +44,12 @@ Small, focused open-source tools. Fast, light and friendly to the keyboard.
 ### `GET /posts?limit=3`
 
 <!-- POSTS:START -->
-- **[A static site on Cloudflare for free: the setup I'd repeat](https://waqasahmaddev.com/posts/a-static-site-on-cloudflare-for-free/)**  
-  <sub>2026-11-13 · 2 min read</sub>
-- **[What ten years of .NET taught me to stop doing](https://waqasahmaddev.com/posts/what-ten-years-of-dotnet-taught-me-to-stop-doing/)**  
+- **[What ten years of .NET taught me to stop doing](https://waqasahmaddev.com/blog/what-ten-years-of-dotnet-taught-me-to-stop-doing/)**  
   <sub>2026-11-06 · 3 min read</sub>
-- **[Why I built PulseSharp instead of using a bigger library](https://waqasahmaddev.com/posts/why-i-built-pulsesharp/)**  
+- **[Why I built PulseSharp instead of using a bigger library](https://waqasahmaddev.com/blog/why-i-built-pulsesharp/)**  
   <sub>2026-10-29 · 3 min read</sub>
+- **[I built my portfolio as an API](https://waqasahmaddev.com/blog/i-built-my-portfolio-as-an-api/)**  
+  <sub>2026-10-18 · 2 min read</sub>
 <!-- POSTS:END -->
 
 This list updates itself every day from my own API.
